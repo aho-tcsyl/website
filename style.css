@@ -1,3 +1,8 @@
 h1{
 	color: aqua;
 }
+
+.theme{
+	background-color: white;
+	font-family: 'Varela', sans-serif;
+}
